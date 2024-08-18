@@ -1,2 +1,0 @@
-# daraz-clone
-daraz-react
